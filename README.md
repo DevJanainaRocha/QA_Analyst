@@ -1,111 +1,146 @@
-# Portfólio de Qualidade de Software – Janaina Rocha
+# 🧪 QA Analyst – Portfólio de Qualidade de Software | Janaina Rocha
 
-Bem-vindo(a)!  
-Este repositório apresenta uma coleção de documentos reais que desenvolvi como Analista de Qualidade/QA, incluindo requisitos, planos de teste, casos de teste, status reports e artefatos utilizados na validação do projeto **NFN** — uma plataforma de gestão de eventos, venda de ingressos e controle de acesso inteligente com biometria facial.
+Bem-vindo(a)! 👋  
 
-Todo o conteúdo deste portfólio foi **criado por mim**, anonimizado quando necessário, organizado e padronizado para demonstrar minhas habilidades técnicas e práticas em QA.
+Este repositório reúne meu portfólio profissional como **Analista de Qualidade de Software (QA)**, com foco em testes manuais e automação.
 
+Aqui você encontrará desde documentação completa de QA até implementações práticas de testes automatizados, demonstrando minha evolução técnica e organização de processos.
 
-# Estrutura do Repositório
-Portifolio-QA/
+---
+
+# 🎯 Objetivo do Repositório
+
+Este portfólio foi estruturado para demonstrar:
+
+- Atuação em **QA Manual (documentação e validação)**
+- Evolução em **Automação de Testes**
+- Organização de artefatos de QA utilizados no dia a dia
+- Aplicação de boas práticas de qualidade de software
+
+Todos os conteúdos foram **produzidos por mim**, com dados anonimizados quando necessário.
+
+---
+
+# 🗂️ Estrutura do Repositório
+
+QA_Analyst/
 │
-├── Casos-de-Testes/
-│   ├── dct-nfn.pdf                     # PDF dos casos de teste
-│   └── ct-nfn-gestao-de-eventos.md     # arquivo de casos de teste no GitHub
+├── 📁 QA_Manual/
+│ │
+│ ├── 📁 Planejamento-de-Testes/
+│ │ └── (planos de teste em PDF e/ou .md)
+│ │
+│ ├── 📁 Casos-de-Testes/
+│ │ └── (casos de teste detalhados)
+│ │
+│ ├── 📁 Documentacao/
+│ │ └── (processos, fluxos, requisitos, documento de visão, etc.)
+│ │
+│ └── 📁 Status-Report/
+│ └── (relatórios de status de sprints e execução de testes)
 │
-├── Documentacao-de-Processos/
-|   ├── modelo-organizacao-clickup.md   # arquivo de modelo de organização no GitHub
-|   └── fluxo_clickup.pdf               # PDF do fluxo Operacional da Vertical de Software no setor de Inovação da Empresa
+├── 📁 Automacao_Cypress/
+│ └── (testes automatizados E2E com Cypress)
 │
-├── Planejamento-de-Testes/
-│   ├── plano-de-testes-nfn.pdf         # PDF do plano de testes
-│   └── plano-de-testes-nfn.md          # arquivo do plano de testes no GitHub
+├── 📁 Automacao_Postman/
+│ └── (testes de API, coleções e validações)
 │
-└── Status-Report/
-    ├── sprint-02-status-report-nfn.md  # arquivo de status report no GitHub
-    └── sprint-02-status-report-nfn.pdf # PDF da mesma documentação
+├── 📁 Automacao_Playwright/
+│ └── (testes E2E automatizados)
+│
+└── 📁 Projetos_em_Evolucao/
+└── (novos estudos e práticas em QA)
 
 
 ---
 
-# Sobre Mim
+# 📌 Projeto em Destaque
 
-Sou Profissional de tecnologia com atuação em Qualidade de Software (QA), Testes de caixa preta, análise de requisitos e apoio à gestão de produto, contribuindo para a entrega de soluções alinhadas às necessidades do usuário e aos objetivos do negócio.
+## 🔹 NFN – Plataforma de Gestão de Eventos
 
-Minha atuação envolve:
+Projeto real utilizado como base para os artefatos de QA.
 
-- Validação funcional completa de aplicações Web e Mobile
+**Contexto:**
+Plataforma de gestão de eventos com:
 
-- Criação e execução de planos e casos de teste
+- Venda de ingressos  
+- Controle de acesso  
+- Integração com biometria facial  
+- Validação de usuários em tempo real  
 
-- Análise e levantamento de requisitos
+**Principais entregas de QA:**
 
-- Acompanhamento de sprints e suporte ao time
-
-- Gestão de atividades no ClickUp
-
-- Apoio como PO (Product Owner) na vertical de software
-
-- Testes e validações integradas com dispositivos físicos
-
-Tenho forte compromisso com:
-
-- Qualidade e experiência do usuário
-
-- Processos estruturados
-
-- Validação orientada a requisitos
-
-- Documentação clara, objetiva e profissional
-
-Paralelamente, estudo Python para aprimorar minha lógica, expandir minhas habilidades técnicas e fortalecer conhecimentos que apoiam o trabalho de QA, automação e engenharia de software.
-Minha jornada é movida pela busca contínua por melhoria, boas práticas e evolução profissional.
+- Plano de testes  
+- Casos de teste detalhados  
+- Status report de sprint  
+- Documentação de processos (ClickUp)  
 
 ---
 
-# Habilidades Técnicas
+# 🧠 Sobre Mim
 
-- Testes Funcionais, Exploratório, Regressão  
-- Planejamento e Estratégia de Testes  
-- Escrita de Casos de Teste e Relatórios de Bugs  
-- Levantamento e Análise de Requisitos  
-- Integração com sistemas biométricos  
-- Análise de UX/UI  
-- Ferramentas: ClickUp, Trello, Planner  
-- Noções em automação (Cypress, Postman – estudando)
+Profissional de tecnologia com atuação em **Qualidade de Software (QA)**, com experiência em:
+
+- Testes manuais (funcionais, exploratórios e regressão)
+- Análise e validação de requisitos
+- Organização de processos e documentação
+- Apoio à gestão de produto
+
+Atuo na validação de aplicações **Web e Mobile**, incluindo cenários integrados com dispositivos físicos.
+
+Tenho foco em garantir entregas com qualidade, alinhadas ao negócio e com boa experiência para o usuário.
 
 ---
 
-# Habilidades Comportamentais
+# ⚙️ Habilidades Técnicas
 
-- Comunicação clara  
+### 🧪 Testes
+- Testes Funcionais  
+- Testes Exploratórios  
+- Testes de Regressão  
+- Escrita de Casos de Teste  
+- Reporte de Bugs  
+
+### 📋 Processos
+- Planejamento de Testes  
+- Análise de Requisitos  
+- Estratégia de QA  
+- Gestão de atividades (ClickUp, Trello, Planner)
+
+### 🤖 Automação (em evolução)
+- Cypress  
+- Postman (API Testing)  
+- Playwright  
+
+---
+
+# 💡 Habilidades Comportamentais
+
+- Comunicação clara e objetiva  
 - Organização documental  
 - Atenção aos detalhes  
-- Colaboração com Devs/PO  
 - Pensamento analítico  
+- Colaboração com Devs e PO  
 - Proatividade na identificação de riscos  
 
 ---
 
-# Projetos Incluídos
+# 🚀 Evolução Contínua
 
-Este portfólio inclui artefatos produzidos para o projeto **NFN**, contemplando:
+Este repositório está em constante evolução, acompanhando meu crescimento profissional em QA, com foco em:
 
-- Plano de testes  
-- Casos de teste detalhados  
-- Status report de sprint
-- Documentação de Processos – Modelo ClickUp
-
-Neste repositório disponibilizo um **Modelo de Organização do Setor de Inovação da Sitelbra no ClickUp**, criado por mim.
-Todos os documentos foram estruturados por mim conforme boas práticas de QA e Gestão de Processos.
+- Automação de testes  
+- Melhoria de processos  
+- Adoção de boas práticas do mercado  
 
 ---
 
-# Contato
+# 📫 Contato
 
-**LinkedIn:** (www.linkedin.com/in/janainaprocha)  
-**E-mail:** (janapp.rocha@gmail.com)
+- 💼 LinkedIn: https://www.linkedin.com/in/janainaprocha  
+- 📧 E-mail: janapp.rocha@gmail.com  
+- 💻 GitHub: https://github.com/DevJanainaRocha  
 
-Sinta-se à vontade para entrar em contato! Será um prazer conversar sobre QA, processos ou desenvolvimento de software.
+---
 
-
+💬 Fique à vontade para explorar os projetos ou entrar em contato!
