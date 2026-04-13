@@ -1,0 +1,10 @@
+node_modules/
+playwright-report/
+test-results/
+dist/
+
+# Estado de autenticação (contém tokens sensíveis)
+tests/fixtures/.auth/
+
+# Variáveis de ambiente com credenciais
+.env
