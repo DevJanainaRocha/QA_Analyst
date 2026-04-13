@@ -1,146 +1,156 @@
-# 🧪 QA Analyst – Portfólio de Qualidade de Software | Janaina Rocha
+QA Analyst – Portfólio de Qualidade de Software | Janaina Rocha
+Bem-vindo(a)!
 
-Bem-vindo(a)! 👋  
+Este repositório reúne meu portfólio profissional como Analista de Qualidade de Software (QA), com foco em testes manuais e automação de testes.
 
-Este repositório reúne meu portfólio profissional como **Analista de Qualidade de Software (QA)**, com foco em testes manuais e automação.
-
-Aqui você encontrará desde documentação completa de QA até implementações práticas de testes automatizados, demonstrando minha evolução técnica e organização de processos.
+Aqui você encontrará desde documentação completa de QA até implementações práticas de testes automatizados, demonstrando minha evolução técnica, organização e visão de qualidade ponta a ponta.
 
 ---
 
-# 🎯 Objetivo do Repositório
+## Objetivo do Repositório
 
 Este portfólio foi estruturado para demonstrar:
 
-- Atuação em **QA Manual (documentação e validação)**
-- Evolução em **Automação de Testes**
-- Organização de artefatos de QA utilizados no dia a dia
-- Aplicação de boas práticas de qualidade de software
+* Atuação em QA Manual (documentação, planejamento e validação)
+* Evolução em Automação de Testes
+* Organização de artefatos de QA utilizados no dia a dia
+* Aplicação de boas práticas de qualidade de software
+* Rastreabilidade entre requisitos, testes e validação
 
-Todos os conteúdos foram **produzidos por mim**, com dados anonimizados quando necessário.
+Todos os conteúdos foram produzidos por mim, com dados anonimizados quando necessário.
 
 ---
 
-# 🗂️ Estrutura do Repositório
+## Estrutura do Repositório
 
+```
 QA_Analyst/
 │
-├── 📁 QA_Manual/
-│ │
-│ ├── 📁 Planejamento-de-Testes/
-│ │ └── (planos de teste em PDF e/ou .md)
-│ │
-│ ├── 📁 Casos-de-Testes/
-│ │ └── (casos de teste detalhados)
-│ │
-│ ├── 📁 Documentacao/
-│ │ └── (processos, fluxos, requisitos, documento de visão, etc.)
-│ │
-│ └── 📁 Status-Report/
-│ └── (relatórios de status de sprints e execução de testes)
+├── QA_Manual/
+│   │
+│   ├── Planejamento-de-Testes/
+│   │   └── (planos de teste em PDF e/ou .md)
+│   │
+│   ├── Casos-de-Testes/
+│   │   └── (casos de teste detalhados)
+│   │
+│   ├── Documentacao/
+│   │   └── (requisitos, DER, refinamentos, fluxos e documentação funcional)
+│   │
+│   └── Status-Report/
+│       └── (relatórios de execução de testes e sprints)
 │
-├── 📁 Automacao_Cypress/
-│ └── (testes automatizados E2E com Cypress)
-│
-├── 📁 Automacao_Postman/
-│ └── (testes de API, coleções e validações)
-│
-├── 📁 Automacao_Playwright/
-│ └── (testes E2E automatizados)
-│
-└── 📁 Projetos_em_Evolucao/
-└── (novos estudos e práticas em QA)
-
+├── QA_Automacao/
+│   │
+│   ├── Automacao_Cypress/
+│   │   └── (testes automatizados E2E com Cypress)
+│   │
+│   ├── Automacao_Postman/
+│   │   └── (testes de API, coleções e validações)
+│   │
+│   ├── Automacao_Playwright/
+│   │   └── (testes E2E automatizados)
+│   │
+│   └── Projetos_em_Evolucao/
+│       └── (novos estudos e práticas em automação)
+```
 
 ---
 
-# 📌 Projeto em Destaque
+## Projeto em Destaque
 
-## 🔹 NFN – Plataforma de Gestão de Eventos
+Plataforma de Gestão de Eventos (case real anonimizado)
 
-Projeto real utilizado como base para os artefatos de QA.
+Projeto utilizado como base para construção dos artefatos de QA.
 
-**Contexto:**
+### Contexto:
+
 Plataforma de gestão de eventos com:
 
-- Venda de ingressos  
-- Controle de acesso  
-- Integração com biometria facial  
-- Validação de usuários em tempo real  
+* Venda de ingressos
+* Controle de acesso
+* Integração com biometria facial
+* Validação de usuários em tempo real
 
-**Principais entregas de QA:**
+### Principais entregas de QA:
 
-- Plano de testes  
-- Casos de teste detalhados  
-- Status report de sprint  
-- Documentação de processos (ClickUp)  
-
----
-
-# 🧠 Sobre Mim
-
-Profissional de tecnologia com atuação em **Qualidade de Software (QA)**, com experiência em:
-
-- Testes manuais (funcionais, exploratórios e regressão)
-- Análise e validação de requisitos
-- Organização de processos e documentação
-- Apoio à gestão de produto
-
-Atuo na validação de aplicações **Web e Mobile**, incluindo cenários integrados com dispositivos físicos.
-
-Tenho foco em garantir entregas com qualidade, alinhadas ao negócio e com boa experiência para o usuário.
+* Plano de testes
+* Casos de teste detalhados
+* Status report de sprint
+* Documentação de processos
+* Estruturação de requisitos (DER e refinamentos)
+* Início da automação de testes
 
 ---
 
-# ⚙️ Habilidades Técnicas
+## Abordagem de QA
 
-### 🧪 Testes
-- Testes Funcionais  
-- Testes Exploratórios  
-- Testes de Regressão  
-- Escrita de Casos de Teste  
-- Reporte de Bugs  
+Minha atuação segue uma linha estruturada de qualidade:
 
-### 📋 Processos
-- Planejamento de Testes  
-- Análise de Requisitos  
-- Estratégia de QA  
-- Gestão de atividades (ClickUp, Trello, Planner)
+```
+Requisito → Refinamento → Teste → Validação
+```
 
-### 🤖 Automação (em evolução)
-- Cypress  
-- Postman (API Testing)  
-- Playwright  
+Com foco em:
+
+* Entendimento do produto (visão de negócio)
+* Identificação de riscos
+* Cobertura de cenários críticos
+* Qualidade contínua ao longo do ciclo de desenvolvimento
 
 ---
 
-# 💡 Habilidades Comportamentais
+## Habilidades Técnicas
 
-- Comunicação clara e objetiva  
-- Organização documental  
-- Atenção aos detalhes  
-- Pensamento analítico  
-- Colaboração com Devs e PO  
-- Proatividade na identificação de riscos  
+### Testes
+
+* Testes Funcionais
+* Testes Exploratórios
+* Testes de Regressão
+* Escrita de Casos de Teste
+* Reporte e rastreamento de bugs
+
+### Processos
+
+* Planejamento de Testes
+* Análise de Requisitos
+* Estratégia de QA
+* Gestão de atividades (ClickUp, Trello, Planner)
+
+### Automação (em evolução)
+
+* Cypress
+* Postman (API Testing)
+* Playwright
 
 ---
 
-# 🚀 Evolução Contínua
+## Habilidades Comportamentais
+
+* Comunicação clara e objetiva
+* Organização documental
+* Atenção aos detalhes
+* Pensamento analítico
+* Colaboração com Devs e PO
+* Proatividade na identificação de riscos
+
+---
+
+## Evolução Contínua
 
 Este repositório está em constante evolução, acompanhando meu crescimento profissional em QA, com foco em:
 
-- Automação de testes  
-- Melhoria de processos  
-- Adoção de boas práticas do mercado  
+* Automação de testes
+* Melhoria de processos
+* Adoção de boas práticas do mercado
+* Integração entre QA manual e automação
 
 ---
 
-# 📫 Contato
+## Contato
 
-- 💼 LinkedIn: https://www.linkedin.com/in/janainaprocha  
-- 📧 E-mail: janapp.rocha@gmail.com  
-- 💻 GitHub: https://github.com/DevJanainaRocha  
+LinkedIn: https://www.linkedin.com/in/janainaprocha
+E-mail: [janapp.rocha@gmail.com](mailto:janapp.rocha@gmail.com)
+GitHub: https://github.com/DevJanainaRocha
 
----
-
-💬 Fique à vontade para explorar os projetos ou entrar em contato!
+Fique à vontade para explorar os projetos ou entrar em contato!
